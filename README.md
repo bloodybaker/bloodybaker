@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Yevhenii
 #### I am Java developer
 ![Profile views](https://gpvc.arturio.dev/bloodybaker)  
-<!-->![I am Java developer](https://brandslogos.com/wp-content/uploads/thumbs/java-logo-black-and-white-1.png)<-->
 
 
 Skills: Java / Spring / Hibernate / Android SDK 
