@@ -2,8 +2,8 @@
 #### I am Java developer
 ![Profile views](https://gpvc.arturio.dev/bloodybaker)  
 
-*Creator of Selenide Generator Plugin [Intellij IDEA]
-*Creator of Anti-Tahometer software 
+* Creator of Selenide Generator Plugin [Intellij IDEA]
+* Creator of Anti-Tahometer software 
 
 Skills: Java / Spring / Hibernate 
 
