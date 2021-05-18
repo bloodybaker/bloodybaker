@@ -6,7 +6,7 @@
 * Creator of Anti-Tahometer software 
 
 My Skills: 
-⋅⋅⋅ Java 
+...* Java 
 ⋅⋅⋅ Spring 
 ⋅⋅⋅ Hibernate 
 
